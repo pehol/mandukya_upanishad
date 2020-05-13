@@ -10,7 +10,7 @@ Vorher wurden Mundaka, Taitiria Upanishad unterichtet.
 
 **Veda** = Ist eine Quelle des Wissens und Schrutihi
 
-**Schrutihi** = Von Gott offenbart und von den Rishis gehört
+**Schrutihi** = Von Gott offenbart und von den Rishis gehört bzw. gesehen
 
 Die Veden sind eine von Gott bereitgestellte Literatur. Sie wurden nicht von einem menschlichen Intellekt entwickelt (**Aporushejam**) und wurden mündlich überliefert. Es gibt 4 Veden:
 
