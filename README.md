@@ -2,7 +2,7 @@
 
 Das sind Notizen zum Mandukya Upanishad Vortrag von Swami Paramarthananda. 
 
-Bisherige Position: 01 Intro 48:00 
+Bisherige Position: 02 Intro 7:00 
 
 ## Intro
 
@@ -83,16 +83,19 @@ Ein kompetenter Lehrer war vorher ein kompetenter Vedanta Studen (**Disciple**).
 
 Dekondizionierung vom Jiva und kondizionierung zum Braman.
 
-Damit ein Wort oder mehrere Wörte dem Zuhörer ein Objekt zeigen können (Im Gesit der Zuhörers einen zum Objekt korrespondierenden Gedanken erzeugen), muss das Objekt bestimmte Eigenschaften erfüllen. Diese Eigenschaften werden **Shabda pravritti nimitani** genannt. es gibt 5 von diesen Eigenschaften. Brahman erfüllt nicht alle 5 Eigenschaften (**Shabda pravritti nimitam rahitam Braman**). 
+Damit ein Wort oder mehrere Wörte dem Zuhörer ein Objekt zeigen können (Im Gesit der Zuhörers einen zum Objekt korrespondierenden Gedanken erzeugen), muss das Objekt bestimmte Eigenschaften erfüllen. Diese Eigenschaften bzw. Kriterien werden **Shabda pravritti nimitani** genannt. Es gibt 5 von diesen Eigenschaften. Brahman erfüllt nicht alle 5 Eigenschaften (**Shabda pravritti nimitam rahitam Braman**). 
 
 Shabda: Sprache
 pravritti: ein Gedanke
 nimita: Kondizionierung, Eigenschaft
 
 - **Rudihi** verfügbar sein für die direkte Sinneswahrnehmung. Z.B. ein gesehenes und mit einem Wort versehenes Objekt wird beim nächsten Sehen wiedererkannt.
-- **Jatihi** Spezies - Habe ich z.B. unterschiedliche Bäume kennen gelernt, dann kennen ich die Spezies des Objektes Baum und kann einen Baum identifizieren, obwohl ich ihn zum ersten Mal sehe und mir niemand gesagt hat, dass es ein Baum ist.
-   
+- **Jatihi** - Spezies - Habe ich z.B. unterschiedliche Bäume kennen gelernt, dann kennen ich die Spezies des Objektes Baum und kann einen Baum identifizieren, obwohl ich ihn zum ersten Mal sehe und mir niemand gesagt hat, dass es ein Baum ist.
+- **Gunaha** - Eigenschaften - Wenn ich z.B. eine Objekt nicht kenn und gesagt bekomme "Bring mir das Blau objekt", dann kann ich das Objekt durch die Eigensachaft identifizieren.
+- **Kria** - Fuinktion - Z.B. Kann ich einen Koch erkennen oder einen Polizisten erkennen. Z.B. kann der Wind wind durch die Funktion kommuniziert werden. er bewegt die Blätter des Baumes. 
+- **Sambandaha** - Beziehunh - Z.B. Bruder, Schwester, Mutter, ...
 
+Brahman erfüllt keine dieser 5 Eigenschaften. Wie kann Vedanta Brahman beschreiben, wenn es nur aus Worten besteht?
 
 ## Synonyme
 
