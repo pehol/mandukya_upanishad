@@ -2,7 +2,7 @@
 
 Das sind Notizen zum Mandukya Upanishad Vortrag von Swami Paramarthananda. 
 
-Bisherige Position: 02 Intro 7:00 
+Bisherige Position: 03 Intro 0:00 
 
 ## Intro
 
@@ -95,9 +95,32 @@ nimita: Kondizionierung, Eigenschaft
 - **Kria** - Fuinktion - Z.B. Kann ich einen Koch erkennen oder einen Polizisten erkennen. Z.B. kann der Wind wind durch die Funktion kommuniziert werden. er bewegt die Blätter des Baumes. 
 - **Sambandaha** - Beziehunh - Z.B. Bruder, Schwester, Mutter, ...
 
-Brahman erfüllt keine dieser 5 Eigenschaften. Wie kann Vedanta Brahman beschreiben, wenn es nur aus Worten besteht?
+Brahman erfüllt keine dieser 5 Eigenschaften. Wie kann Vedanta Brahman beschreiben bzw. zeigen, wenn es nur aus Worten besteht?
+
+Auf dem normalen Wege es nicht möglich. Vedanta benutzt hierzu spezielle Methoden:
+
+- **unechte Eigenschaften**: Eigenschafte die nur scheinbar Eigenschaften des Objektes sind. Z.B. kann der Himmel gezeigt werden in dem man die "nicht echte Eigenschaft" blaue Farbe des Himmels dazu benutzt. Der Himmel wurde gezeigt über die Farbe, obwohl er transparent ist und kein Blau besitzt. Das gleiche ist mit z.B. dem Ozean möglich. Ein weiteres Beispiel ist die aufsteigenede und wieder untergehende Sonne. Wobei die Sonne sich nicht bewegt aber es so ausschaut als ob sich die Sonne bewegen würde. Ein scheinbares Attribut von Brahman ist **Sakshitwam** (Wahrnehmen, sich eines Objektes bewust sein). 
+- **temporäre Eigenschaften**: Z.B. möchtest du ein bestimmtes Haus in einer Reihe mit vielen sehr ähnlichen Häusern zeigen, hast aber leider keinen Orientierungspunkt, da alle fast gleich aussehen. Plötzlich kommt ein Vogel angeflogen und setzt sich genau auf das zu zeigende Haus. Dieser Vogel wird zu einer temporären Eigenschaft und du kannst den Fokus auf das geünschte Haus navigieren. Der **Körper** ist ein temporäres Attribut des Bewustseins. Bewustsein ist das, was nicht Teil des Körpers ist. Es ist kein Produkt des Körpers. Es ist keine Eigenschaft des Körpers. Bewustsein ist etwas anderes. Es durchdringt den körper und macht ihn fühlend, empfindungsfähig. Der Körper gehört nicht zur Essenz (ist nicht intrinsic, nicht immanent) des Bewustseins.
+- **Abwesenheit von Eigenschaften**: Z.B. von 10 Bechern ist einer leer. Das Leersein ist keine "positive" Eigenschaft. Es ist das fehlen von etwas. Das kann ich nutzen, um den Fokus den Becher zu lencken. Die Abwesenheit von allen Eigenschaften,  allen Begrenzungen kann benutzt werden, um auf Brahman hinzuweisen. Z.B. hat Brahman keine Farbe, kein Sound, kein Fühlen, kein Denken, keine Form, ... 
+- **indirektes Sprechen, implizites Sprechen (lakschana vritti)**: Wenn z.B. ein Elternteil sagt, dass das jüngste Kind sehr inteligent ist, dann wurde über das älteste Kind indirekt kommuniziert, dass es nicht sehr inteligent ist. Die **Neti Neti Methode** spricht nicht positiv über Atman, sondern negiert alles was nicht Atman ist. Was übrigt bleibt ist das Subjekt das nicht negiert werden kann. In Kena Upanishad ist Atman nicht wahrgenommenes Objekt aber auch kein nichtexistierendes Objekt. Atman ist das wahrnehmende Subjekt. Atman ist sich der Anwesenheit und der Abwesenheit eines Objektes bewusst.
+
+Wörter können Wissen transportieren. Das Wissen wird aber erst durch direktes Erleben  zum verinnerlichten Wissen. Dann wird das Wissen zum "kompletten" Wissen. Egal wie  eine Stadt beschrieben wird, es ist niemals so, wie selbst in der Stadt gewesen zu sein. Wisse -> Erleben. Jnana -> Anubhava. Wörter können nur Wissen transportieren. Wörter können kein direktes Erleben transportieren. Wedanta kann nur Wissen geben. Es wird nicht komplett sein, wenn es nicht in direktes erlbene umgesetzt wird. 
+
+Wie kann das Vedantawissen komplettiert werden? Vedanta gibt kein Erlebnis und will auch kein erlebnis geben, da wir es nicht benötigen. Unser problem ist nicht das fehlen eines Erlebnisses(egal ob dual oder nicht dual), sonder das fehlende Verstehen  des Wissens. Das Erleben jedes Menschen kann in 2 Kategorien eingetreilt werden. Dual und nicht dual. Jeder Mensch erlebt beides. Es gibt keinen Menschen der nur dual oder nur non dual erlebt. Im Wach- und Traumzustand ist mein Erleben dual. Ich erlebe ein Subjekt-Objekte Dualität (**savikalpa anubhavaha**). Hier erlebe ich Trennung und Individualität, zeitliche und räumliche Lokalisation und ich bin ein begrenztes Ich. Im Tiefschlaf erlebe ich keine Dualität (**nivikalpaka anubhava**). Es gibt keine Lokalisierung, keine Individualisierung und keine Identität und keine Begrenzungen im Tiefschlaf. Jeder erlebt Dualität und Nichtdualität. Das Problem ist, dass uns nicht Klar ist, was unsere wahre Natur ist. Sind wird das begrenzte Ich oder sind wir das grenzenlose Ich. Ich kann nicht beides sein, da sie völlig unterschiedlich sind. Das bedeutet, dass eins meine wahre Natur ist und das andere eine temporäre Natur ist.
+Bin ich grenzenlos und erscheine temporär begrenzt oder bin ich begrenzt und erscheine temporär grenzenlos? Vor dem Vedantastudium denkt jeder, dass er ein begrenztes Ich ist. Das ist ein erfahrungsbasierter Fehlschluß. Vedanta will kein erlebnis geben, sonder den Fehlschluß korrigieren. Wir sind Bewustsein mit einem temporären Menschenerlebnis. Diese Korrektur ist 
+
+- **Jagrad avasta**: Wachzustand
+- **Swapna avasta**: Traumzustand
+- **Sushupti avasta**: Tiefschlaf
+ 
+
+
+
+
+
+
 
 ## Synonyme
 
 - Sehen, Wissen
-- Brahman, Existenz, Bewustsein, Grenzenlosigkeit, Ich, Krishna
+- Brahman, Existenz, Bewustsein, Grenzenlosigkeit, Ich, Krishna, Atma, Atman, Subjekt
