@@ -2,7 +2,7 @@
 
 Das sind Notizen zum Mandukya Upanishad Vortrag von Swami Paramarthananda. 
 
-Bisherige Position: 03 Intro 31:30 
+Bisherige Position: 03 Intro 32:00 
 
 ## Intro
 
@@ -134,13 +134,16 @@ Laut dem Muktika Upanishad ist ein umfassendes Studium des Mandukya Upanishads a
 Wird ein Upanishad kommentiert, dann wird diese Kombination **Karika** genannt. Hier wird das Upanishad mit den Kommmentaren von Gaudapada unterrichtet. Er hat eine sehr wichtige Position in der Gurulinie **Guru Param Para**. Die Überlieferungskette ist (03 20:00) Vishnu -> Brahmagi -> Shakti -> Parashara -> Vjasa -> Shuka --> Gaudapada -> Govindapada -> Shankara -> 4 Schüler von Schankara (Einer ist Ananda Giri) -> Asmad Guru(mein Guru). Von Vishnu bis Shuka sind es mythologische Rishis und in einer Vater - Sohn Beziehung. Deren Namen sind nur aus den Puranas bekannt. Gaudapada sind historische Personen. Ab Gaudapada ist es keine Vater - Sohn weitergabe sondern eine Sanyasa Param Para. Zu den 12 Mantren hat Gaudapada 215 Verse geschrieben. Shankara hat Kommentare zu Mandukya und zu den 215 Kommentarversen geschrieben. Ananda Giri hat Kommentare zu schakaras Kommentaren geschrieben. Hier werden die 12 Mandukya Mantren und die 215 Kommentare studiert. Diese 227 Verse sind in 4 Kapitel (**Prakaranam**) unterteilt.
 
 1 Agama Prakaranam
+
 2 Vaitatja Prakaranam
+
 3 Advaita Prakaranam
+
 4 Alata Shanti Prakaranam
 
 ## Kapitel 1 Agama Prakaranam
 
-Dieses Kapitel enthällt die 12 Mantren aus dem Upanishad und 29 Kommentare.
+Dieses Kapitel besteht aus dem Upanishad und 29 Kommentaren. Die restlichen Prakaranas bestehen nur aus Kommentaren.
 
 
 ## Synonyme
