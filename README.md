@@ -1,8 +1,8 @@
-# VEDANTA - Mandukya Upanishad
+# VEDANTA - Mandukya Upanishad Gaudapada Karika
 
 Das sind Notizen zum Mandukya Upanishad Vortrag von Swami Paramarthananda. 
 
-Bisherige Position: 03 Intro 0:00 
+Bisherige Position: 03 Intro 31:30 
 
 ## Intro
 
@@ -21,8 +21,8 @@ Die Veden sind eine von Gott bereitgestellte Literatur. Sie wurden nicht von ein
 
 Jedes Veda ist in zwei Teile eingeteilt:
 
-- Veda Purvaha: erster Teil. Spricht über drei Typen von menschlichen Zielen. 
-- Veda Antaha: letzter Teil
+- Veda Purvaha: Der erster Teil der Veden. Spricht über drei Typen von menschlichen Zielen. **Karma pradana** ist dazu da, um verschiedene weltliche Ziele zu erreichen.
+- Veda Antaha: Der letzter Teil der Veden. **Jnana pradana** liefert Selbstwissen.
 
 ### Veda Purvaha
 
@@ -115,12 +115,37 @@ Bin ich grenzenlos und erscheine temporär begrenzt oder bin ich begrenzt und er
  
 
 
+Daher ist Wissen allein ausreichend für **Moksha**. Das begrenzte Ich ist mitja, das grenzenlose Ich ist satjam. Da ich Atman grenzenlos bin, werde ich auch als Brahman bezeichnet. Brahman bedeutet grenzenloser. Vedanta ist auch bekannt unter Brahmavidja oder Upanishad. 
 
+**Upa-ni-shad** heißt:
 
+- **Upa**: Durch einen Guru erhaltenes Wissen durch einen regelmäßigen und systematischen Unterricht (kein Selbststudium). 
+- **ni**: Nishchaja jnanam: Festet, sicheres Wissen. Fortsetzung des Studiums, bis das Wissen zum zweifelsfreien bzw. fehlerfreiem eigenem Wissen wird.
+- **shad**: Ein Fahrzeug das den Schüler vom Jivaatma zum Brahmaatma führt
 
+Der Schüler wird nicht vom Atman zum Brahman gebracht, sonder der Glaube, dass man nicht Brahman ist, wird entfernt.
+
+Das Wissen ist in Form von Dialogen gegeben. Ein oder mehrere Dialoge zusammengegafasst sind ein Upanishad. Es gab mehr als 1180 solcher Upanishads. Jetzt sind nur noch 108 bekannt. 10 Upanishaden wurden von Shankara kommentiert. Das Mandukya Upanishad ist eines von den 10 kommentierten. Es ist auch das kleinste Upanishad mit 12 Mantren und kommt aus dem Atharvana-Veda. Es kommt von dem Manduka Rishi. Es wird auch als das Froschupanischad bezeichnet. 
+
+**Mandu** ist jemand der sich ständig im Glück schwelgt.
+
+Laut dem Muktika Upanishad ist ein umfassendes Studium des Mandukya Upanishads ausreichend für Moksha.
+
+Wird ein Upanishad kommentiert, dann wird diese Kombination **Karika** genannt. Hier wird das Upanishad mit den Kommmentaren von Gaudapada unterrichtet. Er hat eine sehr wichtige Position in der Gurulinie **Guru Param Para**. Die Überlieferungskette ist (03 20:00) Vishnu -> Brahmagi -> Shakti -> Parashara -> Vjasa -> Shuka --> Gaudapada -> Govindapada -> Shankara -> 4 Schüler von Schankara (Einer ist Ananda Giri) -> Asmad Guru(mein Guru). Von Vishnu bis Shuka sind es mythologische Rishis und in einer Vater - Sohn Beziehung. Deren Namen sind nur aus den Puranas bekannt. Gaudapada sind historische Personen. Ab Gaudapada ist es keine Vater - Sohn weitergabe sondern eine Sanyasa Param Para. Zu den 12 Mantren hat Gaudapada 215 Verse geschrieben. Shankara hat Kommentare zu Mandukya und zu den 215 Kommentarversen geschrieben. Ananda Giri hat Kommentare zu schakaras Kommentaren geschrieben. Hier werden die 12 Mandukya Mantren und die 215 Kommentare studiert. Diese 227 Verse sind in 4 Kapitel (**Prakaranam**) unterteilt.
+
+1 Agama Prakaranam
+2 Vaitatja Prakaranam
+3 Advaita Prakaranam
+4 Alata Shanti Prakaranam
+
+## Kapitel 1 Agama Prakaranam
+
+Dieses Kapitel enthällt die 12 Mantren aus dem Upanishad und 29 Kommentare.
 
 
 ## Synonyme
 
 - Sehen, Wissen
 - Brahman, Existenz, Bewustsein, Grenzenlosigkeit, Ich, Krishna, Atma, Atman, Subjekt
+- Vedanta, Atmavidja, Brahmavidja, Jnanavidja, Upanishads
+- Lehrer, Guru,
