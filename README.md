@@ -2,7 +2,7 @@
 
 Das sind Notizen zum Mandukya Upanishad Vortrag von Swami Paramarthananda. 
 
-Bisherige Position: 03 Intro 35:00 
+Bisherige Position: 03 Intro 48:51 
 
 ## Intro
 
@@ -147,7 +147,26 @@ Dieses Kapitel besteht aus dem Upanishad und 29 Kommentaren. Die restlichen Prak
 
 ### Shakti path
 
+Shanti path ist das Bhadram-Shanti-Path aus dem Atharva-Veda. Damit bittet man Got um Drei Sache:
 
+- Lang genug zu leben, um das Studium des Mandukya Upanishads mit dem Karika abzuschließen
+- Gute Sinnesorgane und Gesundheit auf der physischen, emotionalen und intelektuellen ebene
+- Freiheit von Hindernissen
+- Shanti 
+- Shanti 
+- Shanti 
+
+Die ersten 6 Versen sind vom Mandukya Upanishad, dann Katina, 7 Mantra, Karika, ...
+
+Die ersten zwei Mantren sind ein Intro und stellen zwei Arten der Analyse vor.
+
+Mantra 1: Spricht über die Analyse des Om Zeichens (**Om Kara Vichara**)
+
+Mantra 2: **Atma Vichara** Selbsterforschung
+
+Mantra 3 - 7: Atma Vichara in ausführlich
+
+Mantra 8 - 12: Om Kara Vichara in ausführlich
 
 ## Synonyme
 
