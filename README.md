@@ -2,7 +2,7 @@
 
 Das sind Notizen zum Mandukya Upanishad Vortrag von Swami Paramarthananda. 
 
-Bisherige Position: 03 Intro 48:51 
+Bisherige Position: 04 Intro 37:00
 
 ## Intro
 
