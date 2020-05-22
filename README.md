@@ -160,13 +160,72 @@ Die ersten 6 Versen sind vom Mandukya Upanishad, dann Katina, 7 Mantra, Karika, 
 
 Die ersten zwei Mantren sind ein Intro und stellen zwei Arten der Analyse vor.
 
-Mantra 1: Spricht über die Analyse des Om Zeichens (**Om Kara Vichara**)
+Mantra 1: Spricht über die Analyse des Om Symbols **Om Kara Vichara**
 
 Mantra 2: **Atma Vichara** Selbsterforschung
 
 Mantra 3 - 7: Atma Vichara in ausführlich
 
 Mantra 8 - 12: Om Kara Vichara in ausführlich
+
+
+### Mantra 1
+**Mandukja Mantra 1**: *Die gesamte Schöpfung ist das heilige Mantra Om.*  (Pos: 03 48:55)
+
+Durch das Studium des Om-Symbols studiert man die ganze Schöpfung. Welche Schöpfung ist hier gemeint? Hier ist die gesamte vergangene, die gesamte jetzige und die gesamte zukünftigen Schöpfung gemeint. Alles was war, alles was jetzt ist und alles was jemal sein wird. Das alles ist das Om-Symbol. Es ist nicht nur die drei Zeiten sondernauch das was außerhalb der Zeit ist. Das Om-Symbol representier alles was sich innerhalb und außerhalb der Zeit befindet. Was ist außerhalb der Zeit? Bewustsein, Maja, Avidja, Brahman, ... . Om ist alles. Daher kommt man durch das Studium des Om zu der gleichen Wahrheit(Realität), wie durch die Selbsterforschung. Wenn man durch das Studium des Om die Realität des Om erreicht, dann hat man automatisch die Realität des Universums erreicht. 
+
+### Mantra 2
+**Mandukja Mantra 2**: *Das gesamte Universum (zu allen drei Zeiten) ist Brahman*  (Pos: 04 7:50)
+
+Gleichung aus Manta 1: Om = das gesamte Universum
+Gleichung aus Manta 2: das gesamte Universum = Brahman
+
+Was ist Brahman? Brahman = Atma = Selbst = mein Selbst = Ich
+
+Wenn A = B und B = C, dann ist A = C
+
+Om = Ich
+
+Ich bin immer verfügabr und niemals etwas entferntes. Ich bin = ich bin immer evident(offensichtlich). Ich weiß immer, dass ich bin.
+
+### Atma Vichara
+Atma hat 4 Fasetten bzw. Aspekte. 
+
+#### Kurze erklärung wie das Upanishad die 4 Aspekte beschreiben wird
+
+Um die Existenz eines beliebigen Objektes zu bestätigen, wuss es bestimte Bedingungen erfüllen. Das Objekt mus von einem bewusten Wesen wahrgenommen werden. Wenn ein Objekt niemals (zu keinen der drei Zeiten) wahrgenommen wird, dann kann auch niemals darüber gesprochen werden. Das wird als **Pramejatwam** bezeichnet. Ein vom bewusten Wesen wahrgenommenes Objekt. Bewust wargenommen werden bedeutet:
+
+- ein Objekt einer unserer Wissenquelle(**Pramanam**) sein
+- in einer der drei Zeiten wahrgenommen werden 
+- von irgendeinem bewusten Wesen wahrgenommen werden (nicht nur ich) 
+
+Erst dann kann über die Existenz des Objektes gesprochen werden. Sind die drei Bedingungen nicht erfüllt, dann existiert das Objekt nicht.
+
+Ein Objekt kann nur dann wargenommen werden, wenn auch ein bewustes Wesen(das Subjekt, der Wissende, **Pramata**) existiert.
+ 
+**Pramejam** ist das Objekt.
+ 
+**Pramata** ist das objektivierende Subjekt. 
+
+Das bedeutet, dass die Existenz alle Objekte von der Existenz des Beobachters abhängt. Kein Beobachter -> keine Objekte.
+
+Pramata ist nur dann möglich, wenn ich, das bewuste Wesen, entscheide etwas zu Wissen durch den Einsatz eines Pramanas. Im Wachzustand benutze ich die Pramanas des Wachzustandes, um die Objekte des Wachzustandes zu wissen. Im Traumzustand benutze ich die Pramanas des Traumzustandes, um die Objekte des Traumzustandes zu wissen. Im Tiefschlafzustand benutze ich keine Pramanas und dann bin ich auch kein Wissender. Ein Wissender erscheint immer dann, wenn ich entscheide Objekte zu wissen. Bedeutet, dass der Wissende keine unabhängige Entität ist. Abhängig von mir, vom Bewustsein. Der wissende erscheint erst dann, wenn ich Bewustsein entscheide Objekte zu wissen. Beide Pramatas(aus dem Wach- und dem Traumzustand) so wie alle Pramejas(aus dem Wach- und dem Traumzustand) haben eine von mir abhängige Existenz.
+
+Objekte sind Indirekt von mir abhängig. Das Subjekt ist direkt von mir abhängig. Meine Existenz hängt nicht von irgendwelchen Objekten ab. Die Existenz aller Objekte hängt von mir ab. 
+
+Bewustsein -> Pramata -> Prameja
+
+Unsere Wissensquellen **Pramanam**:
+
+- Prateksha Pramanam:
+- Anumana Pramanam:
+- Upamanam Pramanam:
+
+
+
+
+
+
 
 ## Synonyme
 
