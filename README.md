@@ -2,7 +2,7 @@
 
 Das sind Notizen zum Mandukya Upanishad Vortrag von Swami Paramarthananda. 
 
-Bisherige Position: 04 Intro 37:00
+Bisherige Position: 04 Intro 56:10
 
 ## Intro
 
@@ -214,6 +214,26 @@ Pramata ist nur dann möglich, wenn ich, das bewuste Wesen, entscheide etwas zu 
 Objekte sind Indirekt von mir abhängig. Das Subjekt ist direkt von mir abhängig. Meine Existenz hängt nicht von irgendwelchen Objekten ab. Die Existenz aller Objekte hängt von mir ab. 
 
 Bewustsein -> Pramata -> Prameja
+
+Wenn ein Objekt eine abhängige existenz hat, dann besitzt dieses Objekt keine eigene Substanz. Objekte mit einer abhängigen existenz heissen **Mitja**. 
+Pramata und Prameja sind beide Mitja -> alles was Mitja ist, ist Name und Form (**Nama Rupa**) ohne eiegene Existenz. Das, wovon Mija abhängt wird als **Sat** bezeichet. In diesem Fall ist das Bewustsein Satja und Pramata und Prameja Mitja. Das bedeutet, dass Ich (Satja Atma) alleine als Pramata und Prameja erscheine mit Mitja Nama Rupa.
+
+Die gesamten Mitja Nama Rupa ist in drei Kategorien aufgeteilt. Die erste Kategorie sind alle Namen und Formen die Jagrad avasta bilden (**Stula Nama Rupa**). Die zweite Kategorie sind die Namen und Formen die den Swapna avasta bilden (**Sukschma Nama Rupa**). Die dritte Kategorie sind alle Objekte in ihrem Samenzustand (in ihrer potentialen Form) **Karana Nama Rupa**. 
+
+- **Jagrad avasta** -> **Stula Nama Rupa**
+- **Swapna avasta** -> **Sukschma Nama Rupa**
+- **Sushupti avasta** -> **Karana Nama Rupa**
+
+Im wachzustand nehme ich Atma die Mitja-Formen des Wachzustandes an und erscheine als Jagrad Pramata und Prameja **Stula Atma**. Im traumzustand nehme ich die Mitja-Formen des Traumes an und erscheine als Swapna Pramata und Pramejam **Sukschma Atma**. Im tiefschlafzustand bin Ich Karana Pramata und Prameja **Karana Atma**.
+
+Ich spiele drei Rollen in drei Filmen: Stula Atma in Jagrad avasta, Sukschma Atma in Swapna avasta und Karana Atma in Sushupti avasta. Wer bin ich, wenn ich keine dieser drei Rollen spiele? Dann bin ich **Turija Atma**. Damit habe ich 4 Fasetten bzw. Aspekte:
+
+- Pada 1 Stula Atma
+- Pada 2 Sukschma Atma
+- Pada 3 Karana Atma
+- Pada 4 Turija Atma
+
+Welches von diesen 4 Padas ist Satja und welches ist Mitja. Padas 1 bis 2 sind Mitja ja sie mit Mitja Nama Rupa verbunden sind. Pada 4 ist Satja. 
 
 Unsere Wissensquellen **Pramanam**:
 
