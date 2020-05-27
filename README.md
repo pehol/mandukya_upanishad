@@ -2,7 +2,7 @@
 
 Das sind Notizen zum Mandukya Upanishad Vortrag von Swami Paramarthananda. 
 
-Bisherige Position: 04 Intro 56:10
+Bisherige Position: 05 Intro 15:00
 
 ## Intro
 
@@ -241,8 +241,17 @@ Unsere Wissensquellen **Pramanam**:
 - Anumana Pramanam:
 - Upamanam Pramanam:
 
+Weiterer Verlauf: Mantra 3 beschäftigt sich mit Stula Atma. Mantra 4 beschäftigt sich mit Sukschma Atma. Mantra 5 und 6 beschäftigt sich mit Karana Atma. Mantra 7 beschäftigt sich mit Turija Atma.
 
 
+### Mantra 3
+**Mandukja Mantra 3**: *Hier kommt das Mantra hin*  (Pos: 05 6:46)
+Pramata: Ich in Verbindung mit einem individuellen physischen Körper (**Wjashti Stula Nama Rupa**, microkosmisches Nama Rupa) im Jagrad avasta. Ich werde zum Sehenden.
+Pramejam: Duch meine Verbidung mit **Samaschti Stula Nama Rupa** (macrokosmische Nama Rupa) werde ich zu allen gesehenen Objekte des Universums. Ich werde zu den 5 Elementen.
+Als Jagrad Pramata ist meine Bewustsein durch die 5 Sinnesorgane und die 5 Organe der Aktion nach außen gerichtet (**Bahisch Pragnjaha**). Im Wachzustand erlebe ich mich in Form von materiellen Objekten betrachtet durch einen menschlichen Körper. Wie kontaktiere ich die im Außen liegenden Objekte? Dafür habe ich 19 Tore.
+
+5 Njani Indriani: 5 Sinnesorgane. Durch diese 5 kommt die Welt zu mir.
+5 Karma Indriani:
 
 
 
