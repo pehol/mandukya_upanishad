@@ -2,7 +2,7 @@
 
 Das sind Notizen zum Mandukya Upanishad Vortrag von Swami Paramarthananda. 
 
-Bisherige Position: 05 Intro 15:00
+Bisherige Position: 05 Intro 22:10
 
 ## Intro
 
@@ -228,8 +228,8 @@ Im wachzustand nehme ich Atma die Mitja-Formen des Wachzustandes an und erschein
 
 Ich spiele drei Rollen in drei Filmen: Stula Atma in Jagrad avasta, Sukschma Atma in Swapna avasta und Karana Atma in Sushupti avasta. Wer bin ich, wenn ich keine dieser drei Rollen spiele? Dann bin ich **Turija Atma**. Damit habe ich 4 Fasetten bzw. Aspekte:
 
-- Pada 1 Stula Atma
-- Pada 2 Sukschma Atma
+- Pada 1: Stula Atma -> Pramanam und Pramejam in Jagrad avasta
+- Pada 2 Sukschma Atma -> Pramanam und Pramejam in Swapna avasta
 - Pada 3 Karana Atma
 - Pada 4 Turija Atma
 
@@ -248,12 +248,18 @@ Weiterer Verlauf: Mantra 3 beschäftigt sich mit Stula Atma. Mantra 4 beschäfti
 **Mandukja Mantra 3**: *Hier kommt das Mantra hin*  (Pos: 05 6:46)
 Pramata: Ich in Verbindung mit einem individuellen physischen Körper (**Wjashti Stula Nama Rupa**, microkosmisches Nama Rupa) im Jagrad avasta. Ich werde zum Sehenden.
 Pramejam: Duch meine Verbidung mit **Samaschti Stula Nama Rupa** (macrokosmische Nama Rupa) werde ich zu allen gesehenen Objekte des Universums. Ich werde zu den 5 Elementen.
-Als Jagrad Pramata ist meine Bewustsein durch die 5 Sinnesorgane und die 5 Organe der Aktion nach außen gerichtet (**Bahisch Pragnjaha**). Im Wachzustand erlebe ich mich in Form von materiellen Objekten betrachtet durch einen menschlichen Körper. Wie kontaktiere ich die im Außen liegenden Objekte? Dafür habe ich 19 Tore.
+Als Jagrad Pramata ist meine Bewustsein durch die 5 Sinnesorgane und die 5 Organe der Aktion nach außen gerichtet (**Bahisch Pragnjaha**). Im Wachzustand erlebe ich mich in Form von materiellen Objekten betrachtet durch einen menschlichen Körper. Wie interagiere ich mit dem in der Außenwelt liegenden Objekten? Dafür habe ich 19 Tore.
 
-5 Njani Indriani: 5 Sinnesorgane. Durch diese 5 kommt die Welt zu mir.
-5 Karma Indriani:
+- 5 Njani Indriani: 5 Sinnesorgane. Durch diese 5 kommt die Welt zu mir.
+- 5 Karma Indriani: 5 Aktionsorgane. Damit gebe ich Aktionen nach Außen.
+- 5 Pranah: Prama, Apana, Vjana, Udana, Samana. Diese sind hinter den 5 Karma Indianas.
+- 4 Interne Organa: Manaha (Emotionen), Budhi(Intelect), Chittam(Gedächtnis), Ahamkaraha(Die Ich Idee)
 
+Der technische Name von **Jagrad Pramata** is **Wishwa**: Wenn ich im Wachzustand mich in Form eines materiellen Körpers erlebe und andere materiellen Objekte erlebe. 
 
+Ich bin aber auch alle materiellen Objekte, ich durchdringe alle Objekte, Sonne, Mond, Sterne, ... . Der technische Name von **Jagrad Pramejam** is **Virad Ischwaraha**
+
+Wischwa das Individuum, Virad Ischwaraha. 
 
 
 ## Synonyme
