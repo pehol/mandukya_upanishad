@@ -1,8 +1,8 @@
 # VEDANTA - Mandukya Upanishad Gaudapada Karika
 
-Das sind Notizen zum Mandukya Upanishad Vortrag von Swami Paramarthananda. 
+Das sind meine Notizen zum Mandukya Upanishad vortragen von Swami Paramarthananda. 
 
-Bisherige Position: 05 Intro 22:10
+Bisherige Position: 05 Intro 22:10   (4,5 Stunden von 79 Sunden) 
 
 ## Intro
 
