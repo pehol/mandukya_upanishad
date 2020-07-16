@@ -2,7 +2,7 @@
 
 Das sind meine Notizen zum Mandukya Upanishad vortragen von Swami Paramarthananda. 
 
-Bisherige Position: 05 Intro 22:10   (4,5 Stunden von 79 Sunden) 
+Aktuelle Position: 05 Intro 48:00   (5/79)
 
 ## Intro
 
