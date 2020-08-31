@@ -2,7 +2,7 @@
 
 Das sind meine Notizen zum Mandukya Upanishad vortragen von Swami Paramarthananda. 
 
-Aktuelle Position: 05 Intro 48:00   (5/79)
+Aktuelle Position: File 06 Pos 13:45   (7,5%)
 
 ## Intro
 
@@ -301,6 +301,61 @@ Ich in Verbindung mit allen Traumobjekten bin wieder **sapt anga**. Lord mit 7 s
 ### Mantra 5
 **Mandukja Mantra 5**: *Hier kommt das Mantra hin*  (Pos: 05 40:00)
 
+Pada 3
+
+In Verbindung mit Jagrad avasta bin ich der Wache (im Wachzustand). In Verbindung mit Swapna avasta bin ich der Träumende. In Verbindung mit Suschupti avasta bin ich der Schlafende. Von meinem Standpunkt aus bin ich keiner der drei.
+
+- **Jagrad avasta**: Kontakt zu den Objekten durch die Sinnesorgane. Wachzustand
+- **Swapna avasta**: Erleben eines projezierten inneren Universums. Träumen
+- **Sushupti avasta**: Erlebt keine externen und keine internen Objekte, hat kein Verlangen nach Objekten. Tiefschlaf
+
+Vergleich mit einem Radio:
+ 
+- Jagrad: Das Radio nimmt eine Sendung auf
+- Swapna: Die Aufnahme wird abgespiel
+- Sushupti: Das Radio ist aus
+
+Sushupti relativiert die beiden anderen Zustände.
+
+Pada 3 ist Bewustsein in Verbindung mit Sushupti. Ich im Tiefschlaf. Karana Atma. Hier gibt es keine Unterschiede. Die Aufgabe der Sinnesorgane ist es Unterschiede zu reporten. Die Sinnesorgane teilen das Universum in 5 Segmente auf: 
+
+- Hören
+- Sehen
+- Riechen
+- Tasten
+- Schmecken
+
+Sind die Sinnesorgane nicht vorhanden, dann werde auch keine Unterschiede berichtet. Durch die Unterschiede kann der Verstand die  Objekte erkennen und von einander unterscheiden. Die berichteten Unterschiede erzeugen ein das Objekt intern. Es entsteht ein zum erkannten Objekt passender Objektgedanke. Wenn die Augen z.B. auf einen Föhn gerichtet sind, dann wird automatisch das Objekt Föhn erkannt und es entsteht ein entsprechender Gedanke ( ein Föhngedanke :) ). Zu jedem externen Objekt existiert auch ein entsprechendes internes Objekt. Im Tiefschlaf sind die Sinnesorgane im Keimzustand und liefern keine Informationen. So verschwinden auch alle internen Objekte und ich erlebe die abwesenheit von Objekten.
+
+Da die Sinnesorgane und alle Objeekte nicht verschwinden können, befinden sie sich in einem Keimzustand (als Potential). 
+
+Im Tiefschlaf gibt es keine Unterscheidung der Objekte und kein Objektgedanken.
+
+Wachzustand -> Traumzustan: externe Objekte gehen in den Keimzustand
+
+Traumzustand -> Tiefschlaf: das Wissen (Objektgedanken) geht in den Keimzustand
+
+Ich in Vwerbindung mit allen Objekten in potentaler Form bin ich karan Atma. In verbindung mit der potentialen individualen Form bin ich **Pragnja karan Atma**. In Verbidung mit allen Objekten in potentialer Form bin ich **Antarjami karan Atma**.
+
+Der Unterschied zu den beiden anderen Zuständen ist, dass der Micro- und Macrokosmos sichbar unterschieden werden können. Ich kann mich, das Individuum, sehen und ich kann mich in Form aller anderen Objekte sehen (Samashti). Im Tiefschlaf kann ich nicht zwischen den beiden unterscheiden, aber beides ist da. Alles ist da in potentialer Form aber es ist nicht differenziert.
+
+Mantra 5 beschäftigt sich mit **Pragnja karan Atma** und Mantra 6 mit **Antarjami karan Atma**.
+
+Wjasti Atma: Individuum
+Samashti Atma: Alle anderen Objekte
+
+**Eiki Butaha**: undifferenzierte Form der Objekte
+
+**Pragnjana ganaha**: undifferenzierte Form des Wissens (Objektgedanken)
+
+In Sushupti Avasta ist Pragnja voll mit Ananda majaha. Dafür gibt es 2 Gründe:
+
+**Aufgelöst**: in den Keimzustand gewechselt.
+
+1. Die mich begrenzende individuelle Form (menschlicher Körper) ist aufgelöst. Ich nehme nicht mehr an ein zeitlich und räumlich begrenzte Form zu sein. Das Gefühl von Individualität ist aufgelöst. Da diese Begrenzungen aufgelöst sind, erlebe ich Grenzenlosigkeit (**Anantatwam**).
+2. 
+
+Ananda majaha
 
 ## Synonyme
 
