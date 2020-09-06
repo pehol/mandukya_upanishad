@@ -2,7 +2,7 @@
 
 Das sind meine Notizen zum Mandukya Upanishad vortragen von Swami Paramarthananda. 
 
-Aktuelle Position: File 06 Pos 13:45   (7,5%)
+Aktuelle Position: File 06 Pos 56:00   (8%)
 
 ## Intro
 
@@ -335,7 +335,7 @@ Wachzustand -> Traumzustan: externe Objekte gehen in den Keimzustand
 
 Traumzustand -> Tiefschlaf: das Wissen (Objektgedanken) geht in den Keimzustand
 
-Ich in Vwerbindung mit allen Objekten in potentaler Form bin ich karan Atma. In verbindung mit der potentialen individualen Form bin ich **Pragnja karan Atma**. In Verbidung mit allen Objekten in potentialer Form bin ich **Antarjami karan Atma**.
+Ich in Verbindung mit allen Objekten in potentaler Form bin karan Atma. In verbindung mit der potentialen individualen Form bin ich **Pragnja karan Atma**. In Verbidung mit allen Objekten in potentialer Form bin ich **Antarjami karan Atma**.
 
 Der Unterschied zu den beiden anderen Zuständen ist, dass der Micro- und Macrokosmos sichbar unterschieden werden können. Ich kann mich, das Individuum, sehen und ich kann mich in Form aller anderen Objekte sehen (Samashti). Im Tiefschlaf kann ich nicht zwischen den beiden unterscheiden, aber beides ist da. Alles ist da in potentialer Form aber es ist nicht differenziert.
 
@@ -350,12 +350,43 @@ Samashti Atma: Alle anderen Objekte
 
 In Sushupti Avasta ist Pragnja voll mit Ananda majaha. Dafür gibt es 2 Gründe:
 
-**Aufgelöst**: in den Keimzustand gewechselt.
+**Aufgelöst**: in den Keimzustand gewechselt, im Kausalzustand.
 
-1. Die mich begrenzende individuelle Form (menschlicher Körper) ist aufgelöst. Ich nehme nicht mehr an ein zeitlich und räumlich begrenzte Form zu sein. Das Gefühl von Individualität ist aufgelöst. Da diese Begrenzungen aufgelöst sind, erlebe ich Grenzenlosigkeit (**Anantatwam**).
-2. 
+1. Die mich begrenzende individuelle Form (menschlicher Körper) ist aufgelöst. Ich nehme nicht mehr an ein zeitlich und räumlich begrenzte Form zu sein. Das Gefühl von Individualität ist aufgelöst. Da diese Begrenzungen aufgelöst sind, erlebe ich Grenzenlosigkeit (**Anantatwam**). Begrenzt, sterblich zu sein ist **Dukam** (Leiden). Daher ist Grenzenlosigkeit **Sukam**, **Ananda** (Freude). Daher ist der Tiefschlaf **Ananda Majaha** (temporär Grenzenlos, Blissschicht). **Ananda swarupam** ist nicht temporär.
+2. In Jagrad und Swapna habe ich einen Individualität und daher auch eine Dualität (Subjekt - Objekt Dualität (**Dwaitam**) oder Subjekt - Objekt - Instrument dreifache Trennung (**Triputi**)). Dualität ist immer mit Leiden verbunden. **Sushupti avasta** und **Nirvi Kalpa Samadhi** sind gleich, da in beiden keine Trennung existiert und sie endlich sind. **Nirvi Kalpa njanam** ist das Wissen, dass man immer Nirvi Kalpa ist. Auch im Wachzustand. Ein Yogi versucht **Nirvi Kalpa Avasta** zu erreichen, ein Vedanti will **Nirvi Kalpa njanam** haben. 
 
-Ananda majaha
+
+
+Im Sushupti sind wir in Nirvi Kalpa avasta, daher Ananda majaha.  Pragnja ist nicht nur angereichert mit Ananda, sondern ist auch in der Lage das Erlebnis mit dem Kausalkörper zu registrieren. Im Wachzustand registriert der Geist. Im Sushupti befindet sich der Geist im aufgelösten Zustand und das Erlebnis wird mit dem Kausalkörper registriert. Das heißt **Ananda Bhukhe**. **Ananda Bhukhe** ist der Anandaerlebende.
+
+Im Wach und Traumzustand registriert der subtile Körper die Erlebnisse. Im Tiefschlaf mach es der Kausalkörper. Der unterschied zwischen den beiden ist, dass ich Im Wach- und Traumzustand weiß, dass ich das erlebre registriere. Woher weiß ich das? Weil ich nach dem Schlaf sage, dass ich gut geschlafen habe. 
+
+**Pragnjaha**
+ 
+1. als ein individualer Schläfer binn ich glücksselig und total ignorant. 
+2. Aus der Sich aller Objekte bedeutet **Pragnja** (**Sarva gnjaha Ishwaraha**).
+
+Die Übergänge vin eine Zustand zu anderen sind:
+Der Wachzustand geht nicht direkt zum Traumzustand. Man geht immer durch den Tiefschlafzustand.
+
+**Wach <-> Schlaf <-> Traum** Der Schlafzustand wird als Koridor zwischen Wach- und Traumzustand bezeichnet. Das ist Pragnjaha aus der wjaschti Sicht. 
+
+### Mantra 6
+**Mandukja Mantra 6**: *Hier kommt das Mantra hin*  (Pos: 06 37:19)
+
+**Antarjami** ich in Verbindung mit allen Objekten in potentialier Form. Hier befinden sich alle Obekte des Wach- und Traumzustandes in potentialer Form. Daher heißt ich hier **karana Atma** (**Sarvei ishwaraha**). Ishwara = Bewustsein mit allen Namen und Formen. So wie Ozean nur ein anderer Name für Wasser ist. Es gibt keine Substanz die Ozean heißt, es gibt nur Wasser. Wasser in einem bestimmten Zustand (Name und Form) ist der Ozean. Ischwara = Ozean. Es gibt keine Substanz Ischwara. Es gibt nur Bewustsein. Bewustsein in verbindung mit der Gesamtheit aller Objekte in potentialer Form ist Ischwara. 
+
+Das 3te Pada ist die Ursache für die ganze Schöpfung. Die potentiale form aller objekte ist eine Kugel. Z.B. sind in einem Lehmklumpen alle Formen potential vorhanden. 
+
+Stula- und Sukshma prapancha sind Karjam (das Produkt). Padam 3 ist Karanam (Ursache).
+
+Pada 4 ist Karja und Karanam vilakshanam (Ursache- und Wirkungsfrei). Frei von Zeit. Absolut. **Turijam**
+
+Die Ursache eines Objektes hat eine materielle und eine inteligente Ursache. Z.B. ist beim Tisch das Holz die materielle Ursache und der Tischler die inteligente Ursache. Bei einer Spinne ist die Spinne beides, da das Netz ein Teil der Spinne ist. Pada 3 ist nicht nur die inteligente sondern auch die materiale Ursache für Pada 1 und Pada 2. Pada 3 (Ishwara) ist **Sarva gnjaha** (allwissend) und Omnipotent(allfähig, allmächtig). Beide zusammen sind **Nimitta Karanam**. Ishwara ist sowas wie eine "Rolle" die ich Atma annehme. 
+
+Vor dem Upanishad denk man, dass man eine kleine von Gott erschaffene Figur ist. Nach dem Upanishad weiß mann, dass man als Gott mit Formen und Namen erscheint. 
+
+Srishti- , Stiti- und Pralaja karanam. 
 
 ## Synonyme
 
