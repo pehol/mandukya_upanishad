@@ -2,7 +2,7 @@
 
 Das sind meine Notizen zum Mandukya Upanishad vortragen von Swami Paramarthananda. 
 
-Aktuelle Position: File 06 Pos 56:00   (8%)
+Aktuelle Position: File 07 Pos 20:00   (8%)
 
 ## Intro
 
@@ -386,7 +386,74 @@ Die Ursache eines Objektes hat eine materielle und eine inteligente Ursache. Z.B
 
 Vor dem Upanishad denk man, dass man eine kleine von Gott erschaffene Figur ist. Nach dem Upanishad weiß mann, dass man als Gott mit Formen und Namen erscheint. 
 
-Srishti- , Stiti- und Pralaja karanam. 
+Srishti- , Stiti- und Pralaja karanam.
+
+Bevor auf das 4te Pada eingegangen wird, gibt es einige Verse von Gaudapada.
+
+Goldring, Goldkette und goldene Ohrringe bestehen aus Gold. Es gibt keine Substanz Ring oder eine Substanz Kette. Diese Formen bestehen alle aus Gold. Gold allein existiert. So ist es auch mit mit, beim Bewustsein (**Turia**). Ich alleine bin. Alle drei Padas vestehen aus mir. Ich bin die Substanz aus der die drei Padas bestehen. Es existiert keine Materie außerhalb von mir.
+
+Ich nehme die Rolle des Wachen, des Träumers und des Schläfers ein. Jede Rolle ist mit Schwierigkeiten verbunden. Meine wahre Natur ist frei voll Rollen.
+
+Jetzt Kommen 9 Karikas
+1 - 5 Zusammenfassung der ersten 5 Mantras. 
+
+Karika 1: Es geht um die drei Padas. 
+
+Karika 2: Stana trajam, die Lokalisierung der drei Padas. 
+
+Karika 3: Bhoga trajam. 
+
+Karika 4: Tripti trajam.
+
+### Gaudapada Karika 1
+
+
+
+
+
+## Definitionen
+**Pada 1: Jagrad avasta**: ich erscheine als stula Atma. Bestehend aus dem Sehenden und dem gesehenen.
+
+**Pada 2: Swapna avasta**: ich erscheine als sukshma Atma (Subtile Traumwelt). Bestehend aus dem Träumenden und den gesehenen Traumobjekten.
+
+**Pada 3: Sushupti avasta**: ich mit allen Pada 1 und Pada 2 Objekten in Keimform.   
+
+**Pramata**: Mikrokosmos
+
+**Pramejam**: Makrokosmos
+
+**Pratamav Pada**(1) Stula Atma
+
+- **Wishwa** (Pramata): Ich im Wachzustand 
+- **Virad** (Pramejam): Alle anderen Objekte aus dem Wachzustand 
+
+**Dvitijav Pada**(2) Sukshma Atma
+
+- **Taijasa** (Pramata): Träumende
+- **Heranjagarba** (Pramejam): Traumobjekte
+
+**Tritijav Pada**(3) Karan Atma
+
+- **Pragnja** (Pramata): Sehende im aufgelöster Form
+- **Antarjami (Jagad Karanam)** (Pramejam): Alle anderen Objekte im aufgelöster Form 
+
+**Pada**(4)
+
+- **Turijam**
+
+**Ishwara**: Bewustsein mit allen Namen und Formen
+
+**Pralaja Avasta**: Schöpfung im Keimzustand
+
+**Pralajam** Kleinere Variante: Tiefschlaf
+
+**Nimitta Karanam** inteligente Ursache, benötigt das Wissen und die Fähigkeit
+
+**Upadana Karanam** Materielle Ursache (Johnihi)
+
+**Nimitta Karana Antarjami** gesamte Wissen(Omnitient), Allfähig(Omnipotent)
+
+**Wesha** Rolle
 
 ## Synonyme
 
